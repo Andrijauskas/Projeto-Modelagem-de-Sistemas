@@ -1,3 +1,4 @@
 # Projeto-de-Modelagem-de-Sistemas
 
-Documentação do projeto.
+Documentação inicial do projeto.
+Talvez futuro desenvoldimento de código.
