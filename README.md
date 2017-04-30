@@ -5,7 +5,7 @@ Simulação da bolsa de valores. Quatro grupos fazem o papel de broker (corretor
 Quatro documentos:
 - README.md
   Breve descrição da estrutura do projeto e do conteúdo dos arquivos.
-- excel.algo
+- Tabelas.xlsx
   Lugar onde as tabelas são armazenadas.
 - Use Case (draw.io).xml
   Arquivo referente ao use case para ser aberto no draw.io.
