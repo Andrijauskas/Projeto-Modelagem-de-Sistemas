@@ -17,7 +17,7 @@ Seis documentos:
   Arquivo referente à codificação do projeto em questão.
   
 Etapas:
-1) Fazer o diagrama de casos de uso
+- Fazer o diagrama de casos de uso
   Feito, Use Case (draw.io).xml e Use Case (draw.io).png.
 2) Fazer os fluxos principais e secundários do diagrama de casos de uso
   Feito, Tabelas.xlsx
