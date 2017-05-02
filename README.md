@@ -2,7 +2,7 @@
 
 Simulação da bolsa de valores. Quatro grupos fazem o papel de broker (corretoras) e um de deal broker (bolsa de valores, por exemplo BOVESPA).
 
-Seis documentos:
+Documentos:
 - Etapas
   Descrição das etapas a serem percorridas para a finalização do trabalho.
 - README.md
