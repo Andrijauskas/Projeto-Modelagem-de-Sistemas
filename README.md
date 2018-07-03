@@ -60,4 +60,4 @@ Documentos:
 - main1.2 - não terminamos.cpp
   Arquivo referente à codificação do projeto em questão. Apenas o início da estruturação e a autenticação por senha padrão foi feito (broker e dealbroker).
 
-ENTREGA: 22 de maio. Entregar a demo do sistema funcionando e o relatório impresso.
+ENTREGA: 22 de maio de 2017. Entregar a demo do sistema funcionando e o relatório impresso.
